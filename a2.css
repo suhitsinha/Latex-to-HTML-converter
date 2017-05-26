@@ -1,0 +1,26 @@
+body {
+    	font-size: 56 px;
+    	color: blue;
+  	text-indent: 10px;
+	margin-left: 30px;
+ 	background-image: url("a2.jpg");
+   	font-family: "Times New Roman";   
+}
+
+
+h1 {
+	text-indent: 0px;
+	margin-left: 0px;
+    	color: dimgrey;
+    	font-family: "cursive";
+}
+
+h2 {
+    	margin-left: 20px;
+}
+
+
+p { 
+   	text-indent: 10px;
+	margin-left: 30px;
+}

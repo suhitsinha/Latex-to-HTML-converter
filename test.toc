@@ -1,0 +1,11 @@
+\contentsline {chapter}{\numberline {1}LaTeX: The Introduction}{2}
+\contentsline {chapter}{\numberline {2}Begin with LaTeX}{3}
+\contentsline {section}{\numberline {2.1}First program: The inside look:}{3}
+\contentsline {section}{\numberline {2.2}Usefull commands for LaTeX}{3}
+\contentsline {chapter}{\numberline {3}Working with formulas}{5}
+\contentsline {section}{\numberline {3.1}Logical formulas}{5}
+\contentsline {section}{\numberline {3.2}Unordered List}{5}
+\contentsline {chapter}{\numberline {4}Other aspects of LaTeX}{6}
+\contentsline {section}{\numberline {4.1}Images using Dia}{6}
+\contentsline {section}{\numberline {4.2}Quotes in LaTeX}{7}
+\contentsfinish 

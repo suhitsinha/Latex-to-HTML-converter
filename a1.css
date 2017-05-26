@@ -1,0 +1,29 @@
+body {
+	font-size: 56 px;
+	color: white;
+     	text-indent: 10px;
+	margin-left: 30px;
+	background-image: url("a1.jpg");
+    	font-family: "Times New Roman";
+ 	width: 1330px;
+     	border: 4px groove  papayawhip ;
+    
+}
+
+
+h1 {
+	text-indent: 0px;
+	margin-left: 0px;
+    	color: dimgrey;
+    	font-family: "cursive";
+}
+
+h2 {
+    	margin-left: 10px;
+}
+
+
+p { 
+   	text-indent: 10px;
+	margin-left: 30px;
+}
